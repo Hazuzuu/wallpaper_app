@@ -7,10 +7,19 @@
   <description>A RSS dedicated to companion news.</description>
   
  <item>
-    <title>Sebastian Leon</title>
+    <title>Skrillex Blue</title>
     <content:encoded>
 <![CDATA[
-<p><img class="alignnone size-large wp-image-826374" src="https://images.unsplash.com/photo-1530989410237-0dd7fa9c4aec?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6d7a8ddbeaf29b4ef73501c64bfcf2d5&auto=format&fit=crop&w=634&q=80">
+<p><img class="alignnone size-large wp-image-826374" src="https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/169404_492638267443483_899843648_o.jpg?_nc_cat=102&oh=300ca00668d532d02742ce13e6192cef&oe=5C6277F1">
+]]>
+</content:encoded>
+  </item>
+  
+  <item>
+    <title>Skrillex Colorful</title>
+    <content:encoded>
+<![CDATA[
+<p><img class="alignnone size-large wp-image-826374" src="https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/1015487_592779907429318_1705830504_o.jpg?_nc_cat=102&oh=8a55253c0008f14bb90e21f883aa919f&oe=5C23DDBF">
 ]]>
 </content:encoded>
   </item>
